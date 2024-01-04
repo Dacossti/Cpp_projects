@@ -1,2 +1,2 @@
-# C_PROJECTS
+# Stock manipulation
 All my C++ personal programs
