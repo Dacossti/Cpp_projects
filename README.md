@@ -1,2 +1,2 @@
-# Cpp Projects
-All my Cpp programs since I started my journey
+# Matrix and Vectors
+Operations on Matrix and Vectors, using only one dimensional arrays
